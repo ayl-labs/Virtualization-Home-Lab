@@ -23,3 +23,7 @@ Gained experience with Linux installation and disk partitioning.
 Understood the importance of Dependencies in software deployment.'
 
 WORK DOCUMENTATION
+![VM3](https://github.com/user-attachments/assets/a6feb1f4-3a94-475f-b501-05e3148c4dc4)
+![VM2](https://github.com/user-attachments/assets/4678d223-6b48-46d2-a7e3-cff02cba49ee)
+![VM1](https://github.com/user-attachments/assets/4eae67af-8e9c-41f0-8fc9-613f54b7da59)
+![vm4](https://github.com/user-attachments/assets/b2175b76-0a24-4b50-9c11-96c2ce4b3ba4)
